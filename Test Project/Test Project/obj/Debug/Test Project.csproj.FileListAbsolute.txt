@@ -1,0 +1,10 @@
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\obj\Debug\Test Project.csproj.AssemblyReference.cache
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\obj\Debug\Test Project.csproj.CoreCompileInputs.cache
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\bin\Debug\Test Project.exe.config
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\bin\Debug\Test Project.exe
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\bin\Debug\Test Project.pdb
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\bin\Debug\InspectorLib.dll
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\bin\Debug\InspectorLib.pdb
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\obj\Debug\Test Pro.138BAB74.Up2Date
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\obj\Debug\Test Project.exe
+C:\Users\Luv$hen\source\repos\Test Project\Test Project\obj\Debug\Test Project.pdb
